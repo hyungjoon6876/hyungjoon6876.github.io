@@ -5,7 +5,7 @@ paginate: 100 # it will paginate after this number
 language: 'en-uk'
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /library/
+baseurl: /library
 
 # Website info
 title: hj dev library
@@ -70,7 +70,7 @@ lsi: False
 username: hyungjoon6876
 repo: hyungjoon6876.github.io
 branch: master
-relative_source: ../jasper2/
+relative_source: ../library
 destination: ../jasper2-pages/
 production_url:  https://hyungjoon6876.github.io/library/
 source_url:  https://github.com/hyungjoon6876/hyungjoon6876.github.io/
