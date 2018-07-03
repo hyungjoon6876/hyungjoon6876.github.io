@@ -14,7 +14,7 @@ cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
-production_url: https://hyungjoon6876.github.io/library/
+production_url: https://hyungjoon6876.github.io/
 source_url: https://github.com/hyungjoon6876/hyungjoon6876.github.io/
 
 # Social info
@@ -72,7 +72,7 @@ repo: hyungjoon6876.github.io
 branch: master
 relative_source: ../library
 destination: ../jasper2-pages/
-production_url:  https://hyungjoon6876.github.io/library/
+production_url:  https://hyungjoon6876.github.io/
 source_url:  https://github.com/hyungjoon6876/hyungjoon6876.github.io/
 
 exclude:
